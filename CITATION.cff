@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Optimization of scramjet inlet design for calorically
+  perfect gaseous mixtures
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Fernando
+    family-names: Atienza González
+    email: 100450921@alumnos.uc3m.es
+repository-code: >-
+  https://github.com/FernandoAtienza/Optimization-of-scramjet-inlet-design-for-calorically-perfect-gaseous-mixtures.git
+url: 'https://github.com/FernandoAtienza'
+abstract: >-
+  GitHub repository with the required MATLAB funtcion to
+  obtain an optimal scramjet inlet configuration for
+  calorically perfect gaseous mixtures.
+date-released: '2024-06-10'
