@@ -14,7 +14,7 @@ authors:
     family-names: Atienza González
     email: 100450921@alumnos.uc3m.es
 repository-code: >-
-  https://github.com/FernandoAtienza/Optimization-of-scramjet-inlet-design-for-calorically-perfect-gaseous-mixtures.git
+  https://github.com/FernandoAtienza/MATLAB-functions-for-the-optimization-of-scramjet-inlet-design-for-calorically-perfect-gas-mixtures
 url: 'https://github.com/FernandoAtienza'
 abstract: >-
   GitHub repository with the required MATLAB funtcion to
