@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Optimization of scramjet inlet design for calorically
+  MATLAB functions for the optimization of scramjet inlet design for calorically
   perfect gaseous mixtures
 message: >-
   If you use this dataset, please cite it using the metadata
